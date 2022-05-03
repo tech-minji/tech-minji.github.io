@@ -290,7 +290,7 @@ defaults:
       author_profile: true
       read_time: false # true
       comments: # true
-      share: true
+      share: false # true
       related: true
   # _pages
   - scope:
@@ -301,5 +301,5 @@ defaults:
       author_profile: true
       read_time: false
       comments: false
-      share: true
+      share: false # true
       related: false
