@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "ko-KR" # "ko-KR", "en-US"
 title                    : "tech-minji.github.io"
 title_separator          : "-"
-subtitle                 : "ver 0.1" # site tagline that appears below site title in masthead
+subtitle                 : "ver 1.0" # site tagline that appears below site title in masthead
 name                     : "MJ" #"Your Name"
 description              : "Blog of MJ" #"An amazing website."
 url                      : "https://tech-minji.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
